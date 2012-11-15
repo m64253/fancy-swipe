@@ -1,0 +1,3 @@
+[submodule "transition"]
+	path = transition
+	url = https://m64253@github.com/m64253/transition.git
